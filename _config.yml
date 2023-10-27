@@ -7,10 +7,10 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Andy Stefan's Personal Site"
+title                    : "Andy Stefan"
 title_separator          : "-"
 name                     : &name "Andy Stefan"
-description              : &description "Personal website of Andy Stefan"
+description              : &description "Work and portfolio of Andy Stefan"
 url                      : https://andystefan.ca # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "andy-stefan/newportfolio"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Andy Stefan"
   avatar           : "profile.png"
-  bio              : "Science is fun!"
+  bio              : "Possessing a MSc Biology, Andy Stefan is a Canadian author working in the field of science communication, education, and community outreach."
   location         : "Canada"
   employer         :
   pubmed           : 
