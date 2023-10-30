@@ -7,11 +7,6 @@ Link: <https://www.thecanadianencyclopedia.ca/en/article/hoverfly>
 
 Hoverflies, also known as flower flies, are members of the family Syrphidae within the insect order Diptera (true flies). There are over 6,600 known species of hoverfly, including 539 recorded species in Canada. Hoverflies are found in every Canadian province and territory, including as far north as Ellesmere Island. Adults feed on nectar and pollen, making them important pollinators in a variety of habitats. Many hoverfly species are threatened by habitat destruction and the introduction of non-native species.
 
-<br/><img src='/images/HoverFlyPoster.jpg>
-Hoverfly Species
-Scientists have recorded 539 species of hoverfly in Canada, representing a portion of the over 6,600 species known worldwide.
-(“Syrphidae poster.jpg” by Alvesgaspar at English Wikipedia is licensed under CC BY-SA 3.0.)
-
 **Description and Mimicry**
 
 Hoverflies vary in terms of shape and colour depending on the species, and range from between 4 mm and 25 mm in length. Most adult hoverflies are mimics of wasps and bees, meaning that, like wasps and bees, adult hoverflies often have yellow and black stripes, pointed abdomens and, occasionally, elongated antenna. Known as deceptive or Batesian mimicry, the flies, which cannot bite or sting, look and behave like stinging insects for protection from predators. Some hoverflies closely mimic a specific species, such as honeybees, yellowjackets or bumblebees, while others resemble bees and wasps in general.
@@ -21,11 +16,6 @@ Hoverflies vary in terms of shape and colour depending on the species, and range
 The best way to determine whether an insect is a fly versus a wasp or a bee is to examine the wings: flies only have two wings, while most insects (including wasps and bees) have four. Flies have replaced their hindwings with a pair of halteres, which resemble tiny clubs and are believed to help with flight orientation and stabilisation.
 Additionally, hoverflies tend to have proportionally larger heads and smaller antennae than wasps and bees. They also don’t have any biting mouthparts or stingers.
 Distinguishing hoverflies from other flies is more difficult, as there are many types of flies that mimic wasps and bees. One method of determining that a fly is a hoverfly (i.e., a member of the family Syrphidae) is to look at the pattern of wing veins. The vast majority of hoverflies have what is known as a “spurious vein,” which does not connect to any of the other wing veins. This is a trait that other flies do not have.
- 
-Spurious Vein
-
-Most hoverflies have a spurious vein, i.e. a vein that doesn’t connect to other wing veins, while other flies don’t. Here, a wing of Dasysyrphus venustus, a hoverfly species with a spurious vein, is compared to a wing of Sicus ferrugineus, a fly belonging to the Conopidae family.
-(“Comparison wings Conopidae and Syrphidae.png” by Abalg at English Wikipedia is licensed under (CC BY-SA 4.0.)
 
 **Distribution and Habitat**
 
@@ -52,10 +42,6 @@ In addition to nectar from flowers, many hoverflies also feed on tree sap and ap
 Predators of hoverflies include birds, against which their mimicry is hypothesized to offer some protection. Other vertebrate predators may be significant as well, but few have been studied as predators of hoverflies.
 Hoverflies are also prey to various types of invertebrates, including spiders, wasps and predatory flies. Additionally, hoverfly larvae are hosts to a variety of parasitoid wasp species.
  
-Hourglass Drone Fly
-The hourglass drone fly (Eristalis brousii) is a species of hoverfly in decline. Once widespread across North America, it is now only found in certain places along the coast of Hudson Bay.
-("Eristalis brousii" by sydcannings is licensed under CC BY-NC 4.0.)
-
 **Status and Threats**
 
 As with many insects, hoverflies face several conservation threats. The primary threats to hoverflies are habitat loss, habitat fragmentation, loss of native biodiversity and the introduction of non-native species. In Canada, hoverfly species native to prairies and savannah are particularly at risk, where much of this habitat has been converted into farmland.
