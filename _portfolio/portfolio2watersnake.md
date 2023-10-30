@@ -1,5 +1,5 @@
 ---
-title: "Common Watersnake"
+title: "Canadian Encyclopedia: Common Watersnake"
 excerpt: "The common watersnake (Nerodia sipedon) is a medium-sized, non-venomous snake native to North America. <br/><img src='/images/500x300.png'>"
 collection: portfolio
 ---
