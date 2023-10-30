@@ -83,7 +83,7 @@ author:
   name             : "Andy Stefan"
   avatar           : "IMG_20211023_071200_160.jpg"
   bio              : "Possessing a MSc Biology, Andy Stefan is a Canadian author working in the field of science communication, education, and community outreach."
-  location         : "Canada"
+  location         : "Ottawa, Canada"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=EiZ0M5YAAAAJ&hl=en&oi=sra"
@@ -176,7 +176,7 @@ kramdown:
 # Collections
 collections:
   teaching:
-    output: true
+    output: false
     permalink: /:collection/:path/
   publications:
     output: true
@@ -185,7 +185,7 @@ collections:
     output: true
     permalink: /:collection/:path/
   talks:
-    output: true
+    output: false
     permalink: /:collection/:path/
 
 
