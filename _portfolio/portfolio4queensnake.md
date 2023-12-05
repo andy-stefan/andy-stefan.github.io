@@ -1,6 +1,6 @@
 ---
 title: "Canadian Encyclopedia: Queensnake"
-excerpt: "The queensnake (<i>Regina septemvittata</i>) is a small, non-venomous snake that specializes in hunting crayfish. <br/><img src='/images/500x300.png'>"
+excerpt: "The queensnake (<i>Regina septemvittata</i>) is a small, non-venomous snake that specializes in hunting crayfish."
 collection: portfolio
 ---
 Link: <https://www.thecanadianencyclopedia.ca/en/article/queensnake>
