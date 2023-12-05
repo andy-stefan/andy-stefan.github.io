@@ -1,6 +1,6 @@
 ---
 title: "Canadian Encyclopedia: Eastern Hog-Nosed Snake"
-excerpt: "The Eastern hog-nosed snake (Heterodon platirhinos) is a medium-sized snake with an upturned scale on the end of its snout. <br/><img src='/images/500x300.png'>"
+excerpt: "The Eastern hog-nosed snake (Heterodon platirhinos) is a medium-sized snake with an upturned scale on the end of its snout."
 collection: portfolio
 ---
 Link: <https://www.thecanadianencyclopedia.ca/en/article/eastern-hog-nosed-snake>
