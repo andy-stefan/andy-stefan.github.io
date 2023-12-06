@@ -1,6 +1,6 @@
 ---
 title: "Canadian Encyclopedia: Spring Peeper"
-excerpt: "The spring peeper is a small tree frog native to the forests of Eastern North America. Within Canada, the spring peeper can be found in Manitoba, Ontario, Quebec, New Brunswick, Nova Scotia and Prince Edward Island."
+excerpt: "The spring peeper is a small tree frog native to the forests of Eastern North America. Within Canada, the spring peeper can be found in Manitoba, Ontario, Quebec, New Brunswick, Nova Scotia and Prince Edward Island.<br/><br/><img src='/images/peeper1.jpg' alt='adult peeper frog' width='400'>"
 collection: portfolio
 ---
 Link: <https://www.thecanadianencyclopedia.ca/en/article/spring-peeper>
