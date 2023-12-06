@@ -1,13 +1,13 @@
 ---
 title: "Canadian Encyclopedia: Queensnake"
-excerpt: "The queensnake (<i>Regina septemvittata</i>) is a small, non-venomous snake that specializes in hunting crayfish.<br/><br/><img src='/images/queensnake1.jpg' alt='queensnake on a branch' width='400'>"
+excerpt: "The queensnake (<i>Regina septemvittata</i>) is a small, non-venomous snake that specializes in hunting crayfish.<br/><br/><img src='https://inaturalist-open-data.s3.amazonaws.com/photos/86816643/original.jpeg' alt='queensnake on a branch' width='400'>"
 collection: portfolio
 ---
 Link: <https://www.thecanadianencyclopedia.ca/en/article/queensnake>
 
 The queensnake (<i>Regina septemvittata</i>) is a small, non-venomous snake. In Canada, queensnakes are found in Southern Ontario. (See also Snake Species in Canada.) Their range continues south through the Eastern United States, as far as Florida. Queensnakes are semi-aquatic and are commonly found near flowing fresh water, where they almost exclusively feed on freshly moulted crayfish. Queensnakes are endangered, according to the Committee on the Status of Endangered Wildlife in Canada. They are threatened by habitat loss and may be negatively impacted by the introduction of non-native crayfish species.
 
-<img src="/images/queensnake1.jpg" alt="queensnake on a branch" width="600">
+<img src="https://inaturalist-open-data.s3.amazonaws.com/photos/86816643/original.jpeg" alt="queensnake on a branch" width="600">
 
 > Queensnakes (Regina septemvittata) are semi-aquatic and feed exclusively on freshly moulted crayfish.
 > <b/> *("[königinnennatter, queen snake](https://www.inaturalist.org/photos/86816643)" by [Rob Van Epps](https://www.inaturalist.org/users/19858) is licensed under [CC BY-NC 4.0](http://creativecommons.org/licenses/by-nc/4.0/?ref=openverse).)*
@@ -26,7 +26,7 @@ Queensnakes are semi-aquatic and are almost always found in or around permanent 
 
 In Canada, queensnakes hibernate through the winter in burrows known as hibernacula. Their hibernacula are commonly found underground below the frostline. Queensnakes have been found hibernating communally, although solitary hibernation may also be possible in certain locations.
 
-<img src="/images/queensnake2.jpg" alt="queensnake on a branch" width="600">
+<img src="https://inaturalist-open-data.s3.amazonaws.com/photos/94302289/original.jpg" alt="queensnake on a branch" width="600">
 
 > At times difficult to see, the Queensnake has three stripes that run down its back, in addition to four stripes along its belly. The Queensnake’s scientific name, Regina septemvittata, means “queen seven stripes.”
 > <br/> *("[königinnennatter, queen snake](https://www.inaturalist.org/photos/94302289)" by [pgwamsley](https://www.inaturalist.org/users/2397314) is licensed under [CC BY-NC 4.0](http://creativecommons.org/licenses/by-nc/4.0/?ref=openverse).)*
@@ -45,7 +45,7 @@ Queensnakes generally feed on whichever crayfish species is most abundant in the
 
 Queensnakes are quite small, which leaves them vulnerable to a variety of predators. This is especially true of young and hibernating snakes, which are predated on by large crayfish and mice. Predators of adult queensnakes likely include American minks, river otters, raccoons, great blue herons and gulls.
  
-<img src="/images/queensnake3.jpg" alt="queensnake on a branch" width="600">
+<img src="https://inaturalist-open-data.s3.amazonaws.com/photos/68229274/original.jpeg" alt="queensnake on a branch" width="600">
 
 > The Queensnake is the only snake found in Ontario with four dark-coloured stripes running the length of its belly.
 > *("[königinnennatter, queen snake](https://www.inaturalist.org/photos/68229274)" by [Richard Coldiron](https://www.inaturalist.org/users/1555942) is licensed under [CC BY-NC 4.0](http://creativecommons.org/licenses/by-nc/4.0/?ref=openverse).)*
