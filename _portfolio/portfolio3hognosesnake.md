@@ -1,13 +1,13 @@
 ---
 title: "Canadian Encyclopedia: Eastern Hog-Nosed Snake"
-excerpt: "The Eastern hog-nosed snake (Heterodon platirhinos) is a medium-sized snake with an upturned scale on the end of its snout.<br/><br/><img src='/images/hognose1.jpg' alt='young hognose snake' width='400'>"
+excerpt: "The Eastern hog-nosed snake (Heterodon platirhinos) is a medium-sized snake with an upturned scale on the end of its snout.<br/><br/><img src='https://inaturalist-open-data.s3.amazonaws.com/photos/40134466/large.jpg' alt='young hognose snake' width='400'>"
 collection: portfolio
 ---
 Link: <https://www.thecanadianencyclopedia.ca/en/article/eastern-hog-nosed-snake>
 
 The Eastern hog-nosed snake (<i>Heterodon platirhinos</i>) is a medium-sized snake with an upturned scale on the end of its snout. The scale gives the snake a pig- or hog-like appearance. In Canada, Eastern hog-nosed snakes are found in Southern Ontario south of the Canadian Shield. They are also found in the Eastern United States as far south as Florida and Texas. The Eastern hog-nosed snake is well-known for its elaborate defensive display: first, the snake flattens its neck into a cobra-like hood, and if that does not deter predators, it flips onto its back and plays dead. 
 
-<img src="https://andystefan.ca/images/hognose1.jpg" width="600" alt="young hognose snake">
+<img src="https://inaturalist-open-data.s3.amazonaws.com/photos/40134466/large.jpg" width="600" alt="young hognose snake">
 
 > The Eastern hog-nosed snake is so-called due to its upturned snout.
 > <br/> *("[eastern hognose snake, hakennasennatter, östliche hakennatter](https://www.inaturalist.org/photos/40134381)" by [Josh Vandermeulen](https://www.inaturalist.org/users/785045) is licensed under [CC BY-NC-ND 4.0](http://creativecommons.org/licenses/by-nc-nd/4.0/?ref=openverse).)*
@@ -34,7 +34,7 @@ In Canada, Eastern hog-nosed snakes reach maturity in 3–5 years; in the southe
 
 The primary prey of Eastern hog-nosed snakes are toads, although they will eat other prey if it is available. While hunting, they use fangs near the back of their mouth to inject their prey with a very mild venom. The placement of these fangs means that hog-nosed snakes are unable to envenomate larger animals such as humans, unless they are allowed to bite and hold on for a very long time. Even if the snake manages to envenomate a human, the chemical composition of the venom makes it non-dangerous to mammals.
 
-<img src="https://andystefan.ca/images/hognose2.jpg" width="600" alt="hognose snake" with flattened neck>
+<img src="https://inaturalist-open-data.s3.amazonaws.com/photos/131007937/large.jpg" width="600" alt="hognose snake" with flattened neck>
 
 >When first threatened, Eastern hog-nosed snakes may flatten their neck into a cobra-like “hood.”
 > <br/> *("[eastern hognose snake, hakennasennatter, östliche hakennatter](https://www.inaturalist.org/photos/131007937)" by [rollingplainst](https://www.inaturalist.org/users/3571199) is licensed under [CC BY-NC-ND 4.0](http://creativecommons.org/licenses/by-nc-nd/4.0/?ref=openverse).)*
@@ -45,7 +45,7 @@ Eastern hog-nosed snakes are prey to other snakes and to predatory birds. They h
 
 If this does not deter the predator, the snake will engage in death-feigning behaviour, or “playing dead.” It turns onto its back, writhing along the ground, and goes limp with its mouth open and tongue hanging out. It also excretes a foul odour and may additionally defecate or regurgitate food in order to appear as unappealing to a potential predator as possible. If the Eastern hog-nosed snake is turned back onto its belly while playing dead, it simply rolls over again. It remains in this position until its predator has been inactive for several minutes, at which point the snake will turn back over and slither away.
 
-<img src="https://andystefan.ca/images/hognose3.jpg" width="600" alt="hognose snake thanatosis">
+<img src="https://d3d0lqu00lnqvz.cloudfront.net/EasternHogNosedSnake/EasternHognoseSnakePlayDead.jpg" width="600" alt="hognose snake thanatosis">
 
 > Playing Dead: Eastern hog-nosed snakes turn onto their backs and “play dead” if threatened by predators.
 > <br/> *("[Eastern Hognose Snake, Heterodon platirhinos Latreille in Sonnini & Latreille, 1801](https://www.flickr.com/photos/44075517@N00/50084320987)" by [Misenus1](https://www.flickr.com/photos/44075517@N00) is licensed under [CC BY-NC-SA 2.0](https://creativecommons.org/licenses/by-nc-sa/2.0/?ref=openverse).)*
