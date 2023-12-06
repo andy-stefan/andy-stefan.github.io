@@ -7,11 +7,23 @@ Link: <https://www.thecanadianencyclopedia.ca/en/article/american-bullfrog>
 
 The American Bullfrog (*Lithobates catesbeianus*) is a large bullfrog native to Eastern and central North America. Within Canada, it is native to Ontario, Quebec, New Brunswick and Nova Scotia, and introduced in British Columbia. The bullfrog is the largest frog species in North America. It is known to be an opportunistic predator and will often attempt to eat anything smaller than itself.
 
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/North-American-bullfrog1.jpg/1163px-North-American-bullfrog1.jpg?20060122131451" alt="adult male bullfrog" width="600">
+
+> American bullfrogs are the largest frog species in North America.
+> <br/> *("[North-American-bullfrog1.jpg](https://commons.wikimedia.org/wiki/File:North-American-bullfrog1.jpg)" by [Carl D. Howe](https://en.wikipedia.org/wiki/User:Cdhowe) is licensed under [CC BY-NC 2.5](https://creativecommons.org/licenses/by-sa/2.5).)*
+
+
+
 **Description**
 
 The American bullfrog is a heavy-bodied frog. It can reach up to 17 cm in length, making it the largest frog in North America. They are pale green, green-brown or brownish in colour, with variable dark speckling. The stomachs of bullfrogs are generally creamy white with dark mottling. During the mating season, males have bright yellow throats and chins. American bullfrogs always have a distinct fold of skin that starts at the eye, curves around the ear drum and ends at the shoulder. This skin fold, along with the absence of dorsolateral folds down the length of their back, is a helpful identifying feature, especially in young frogs.
 
 The larval form of bullfrogs, known as tadpoles, can grow to be more than 10 cm long. They have an oval body and a long tail fin that ends in a point. When they are smaller than 2.5 cm in length, they are black with gold blotches. Once the tadpoles grow larger, they become olive green in colour, with black specks on their back and a cream-yellow stomach.
+
+<img src="/images/bullfrog2.jpg" alt="adult male bullfrog" width="600">
+
+> American bullfrog tadpoles can grow to over 10 cm long.
+> <br/> *("American Bullfrog, tadpole stage (Rana catesbeiana)" by DaveHuth is licensed under CC BY 2.0.)*
 
 **Distribution and Habitat**
 
