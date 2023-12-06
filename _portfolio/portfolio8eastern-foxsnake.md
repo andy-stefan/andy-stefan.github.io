@@ -1,11 +1,16 @@
 ---
 title: "Canadian Encyclopedia: Eastern Foxsnake"
-excerpt: "The Eastern foxsnake is a large, non-venomous snake native to the Great Lake region of North America. It has an orange to reddish-brown head and is adept at climbing trees. <br/><br/><img src='/images/foxsnake1.jpg' alt='adult foxsnake' width='400'>"
+excerpt: "The Eastern foxsnake is a large, non-venomous snake native to the Great Lake region of North America. It has an orange to reddish-brown head and is adept at climbing trees. <br/><br/><img src='https://inaturalist-open-data.s3.amazonaws.com/photos/198338215/medium.jpeg' alt='adult foxsnake' width='400'>"
 collection: portfolio
 ---
 Link: <https://www.thecanadianencyclopedia.ca/en/article/eastern-foxsnake>
 
 The Eastern foxsnake (*Pantherophis vulpinus*) is a large, non-venomous snake native to the Great Lakes region of North America. Their Canadian range is limited to Southern Ontario in two distinct populations: the Georgian Bay population and the Carolinian population in extreme southwestern Ontario. Both of these populations are considered threatened by the Committee on the Status of Endangered Wildlife in Canada. Threats include habitat loss, road mortalities and persecution from humans. (See also Snake Species in Canada.)
+
+<img src="https://inaturalist-open-data.s3.amazonaws.com/photos/198338215/medium.jpeg" alt="adult foxsnake in tree" width="600">
+
+> The Eastern foxsnake is known for its orange to reddish-brown head, noticeably different in colour from the rest of its body.
+> <br/> *("[eastern fox snake, östliche fuchsnatter](https://www.inaturalist.org/photos/198338215)" by [edporopat](https://www.inaturalist.org/users/529327) is licensed under [CC BY-NC 4.0](http://creativecommons.org/licenses/by-nc/4.0/?ref=openverse).)*
 
 **Description**
 
@@ -21,12 +26,22 @@ Eastern foxsnakes tend to favour open habitats such as fields, areas with shallo
 
 Foxsnakes are highly active within their territories. They move between various locations in order to use a variety of habitat features for different purposes, such as thermoregulation, shelter and skin shedding. Such habitat features can include brush piles, flat rock formations, tree stumps, the root systems of downed trees and even man-made structures like wells and canals.
 
+<img src="https://inaturalist-open-data.s3.amazonaws.com/photos/144071375/original.jpeg" alt="adult foxsnake swimming" width="600">
+
+> Eastern foxsnakes tend to live near bodies of water, where they can be seen swimming from one location to another.
+> <br/> *("[eastern fox snake, östliche fuchsnatter](https://www.inaturalist.org/photos/144071393)" by [gis1](https://www.inaturalist.org/users/729195) is licensed under [CC BY-NC 4.0](http://creativecommons.org/licenses/by-nc/4.0/?ref=openverse).)*
+
 Eastern foxsnakes hibernate underground in the wintertime, gathering in large groups to weather the season below the frost line. Such winter dens, known as hibernacula, can occur in bedrock crevices, mammal burrows and human structures such as abandoned buildings and wells. In the Carolinian region, each hibernaculum generally has fewer than 20 snakes. However, in Georgian Bay, where hibernacula sites may be more limited, people have observed more than 200 individuals hibernating together.
 
 **Reproduction and Development**
 Eastern foxsnakes mate between May and June. Females lay 6─29 eggs in early to mid-July, often beneath decaying wood and leaf piles. Females may return to the same nesting site each year, sometimes travelling over 2 km to do so. In areas where suitable nesting sites are scarce, multiple females may lay their eggs together in the same place. In at least one instance, scientists noted a total of more than 80 eggs at a single site, laid by four different females.
 
 The female stays with the eggs for 1─4 days before leaving them to develop on their own. After 50─65 days of incubation, the hatchlings will emerge from their eggs and may stay together for up to one week before dispersing. Eastern foxsnakes are 25─30 cm in length when they hatch. They take 4─5 years to reach maturity, living a total 12─15 years in the wild.
+
+<img src="https://d3d0lqu00lnqvz.cloudfront.net/EasternFoxsnake/EasternFoxsnakeBaby.jpg" alt="juvenile foxsnake" width="600">
+
+> Juvenile Eastern foxsnakes differ in colour from adults, ranging from greyish to tan.
+> <br/> *("[Pantherophis vulpinus : Juvenile Fox Snake](https://www.flickr.com/photos/70651647@N00/16766103433)" by [dmills727](https://www.flickr.com/photos/70651647@N00) is licensed under [CC BY-NC-ND 2.0](https://creativecommons.org/licenses/by-nd-nc/2.0/jp/?ref=openverse).)*
 
 **Diet and Predation**
 
