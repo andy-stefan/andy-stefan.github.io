@@ -1,6 +1,6 @@
 ---
 title: "Canadian Encyclopedia: Eastern Foxsnake"
-excerpt: "The Eastern foxsnake is a large, non-venomous snake native to the Great Lake region of North America. It has an orange to reddish-brown head and is adept at climbing trees."
+excerpt: "The Eastern foxsnake is a large, non-venomous snake native to the Great Lake region of North America. It has an orange to reddish-brown head and is adept at climbing trees. <br/><br/><img src='/images/foxsnake1.jpg' alt='adult foxsnake' width='400'>"
 collection: portfolio
 ---
 Link: <https://www.thecanadianencyclopedia.ca/en/article/eastern-foxsnake>
