@@ -13,6 +13,7 @@ Link: <https://www.thecanadianencyclopedia.ca/en/article/common-watersnake>
 The scales of the watersnake are keeled, meaning each scale has a small ridge down the middle. These ridges give the snake an overall appearance of roughness, rather than smooth shininess.
 Common watersnakes can be greyish, greenish, or drab brown. Some have distinct banding and blotching patterns, while others have no patterns at all. Northern watersnakes generally have more regular patterning and blotches, although these shapes can sometimes be difficult to see. In contrast, Lake Erie watersnakes tend to lack a distinct pattern and are generally more greyish in colouration.
  
+
 **Distribution and Habitat**
 
  Within Canada, the common watersnake can be found in the southern portions of Ontario and Quebec. They can also be found in the Eastern United States, where various subspecies of the common watersnake live in habitats as far south as Florida and as far west as Colorado.
