@@ -12,7 +12,6 @@ Link: <https://www.thecanadianencyclopedia.ca/en/article/common-watersnake>
  The common watersnake is a medium-sized snake. Although females have the potential to grow to nearly 1.5 m long, individuals rarely come close to that size and are more commonly around 70 cm in length. The much smaller males, meanwhile, are between 45 and 55 cm long on average.
 The scales of the watersnake are keeled, meaning each scale has a small ridge down the middle. These ridges give the snake an overall appearance of roughness, rather than smooth shininess.
 Common watersnakes can be greyish, greenish, or drab brown. Some have distinct banding and blotching patterns, while others have no patterns at all. Northern watersnakes generally have more regular patterning and blotches, although these shapes can sometimes be difficult to see. In contrast, Lake Erie watersnakes tend to lack a distinct pattern and are generally more greyish in colouration.
- 
 
 **Distribution and Habitat**
 
@@ -23,6 +22,8 @@ The preferred habitat of watersnakes is in and around permanent bodies of water,
 
 It is important for watersnakes’ habitat to have ample basking spots, including rocks, logs and even certain manmade structures, where the snakes can warm themselves in the sun while remaining close to the water. This allows these cold-blooded animals to regulate their body temperature while also being able to quickly flee into the water if disturbed.
 The subspecies Lake Erie watersnake is exclusively found on the islands of the Lake Erie archipelago, as well as small parts of the Ohio shoreline. They are one of the most geographically limited snakes in North America, with a global range of less than 40 km in diameter.
+
+<img src="https://andystefan.ca/images/Northern_Water_Snake.jpg" width="600" alt="watersnake swimming"/>
 
 **Reproduction and Development**
  
