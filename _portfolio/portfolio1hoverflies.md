@@ -1,6 +1,6 @@
 ---
 title: "Canadian Encyclopedia: Hoverfly"
-excerpt: "<img src='/images/HoverFlyPoster.png' alt="grid with 16 species of hoverfly" width="100"><br/>Hoverflies, also known as flower flies, are members of the family Syrphidae within the insect order Diptera (true flies). There are over 6,600 known species of hoverfly, including 539 recorded species in Canada."
+excerpt: "<img src='/images/HoverFlyPoster.png' width="100"><br/>Hoverflies, also known as flower flies, are members of the family Syrphidae within the insect order Diptera (true flies). There are over 6,600 known species of hoverfly, including 539 recorded species in Canada."
 collection: portfolio
 ---
 Link: <https://www.thecanadianencyclopedia.ca/en/article/hoverfly>
