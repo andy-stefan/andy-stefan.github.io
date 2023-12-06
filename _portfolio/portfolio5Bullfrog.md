@@ -1,6 +1,6 @@
 ---
 title: "Canadian Encyclopedia: American Bullfrog"
-excerpt: "The American Bullfrog is the largest bullfrog in North America.<br/><br/><img src='/images/bullfrog1.jpg' alt='adult bullfrog' width='400'>"
+excerpt: "The American Bullfrog is the largest bullfrog in North America.<br/><br/><img src='https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/North-American-bullfrog1.jpg/1163px-North-American-bullfrog1.jpg?20060122131451' alt='adult bullfrog' width='400'>"
 collection: portfolio
 ---
 Link: <https://www.thecanadianencyclopedia.ca/en/article/american-bullfrog>
