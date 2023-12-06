@@ -1,6 +1,6 @@
 ---
 title: "Canadian Encyclopedia: Green Frog"
-excerpt: "The green frog is a large frog native to Eastern North America. They are one of the most frequently encountered frog species in Canada, owing in part to their tolerance of urban environments and human activity."
+excerpt: "The green frog is a large frog native to Eastern North America. They are one of the most frequently encountered frog species in Canada, owing in part to their tolerance of urban environments and human activity.<br/><br/><img src='/images/green1.jpg' alt='adult green frog' width='400'>"
 collection: portfolio
 ---
 Link: <https://www.thecanadianencyclopedia.ca/en/article/green-frog>
