@@ -7,6 +7,8 @@ Link: <https://www.thecanadianencyclopedia.ca/en/article/hoverfly>
 
 Hoverflies, also known as flower flies, are members of the family Syrphidae within the insect order Diptera (true flies). There are over 6,600 known species of hoverfly, including 539 recorded species in Canada. Hoverflies are found in every Canadian province and territory, including as far north as Ellesmere Island. Adults feed on nectar and pollen, making them important pollinators in a variety of habitats. Many hoverfly species are threatened by habitat destruction and the introduction of non-native species.
 
+![](https://andystefan.ca/images/HoverFlyPoster.png | width=600)
+
 **Description and Mimicry**
 
 Hoverflies vary in terms of shape and colour depending on the species, and range from between 4 mm and 25 mm in length. Most adult hoverflies are mimics of wasps and bees, meaning that, like wasps and bees, adult hoverflies often have yellow and black stripes, pointed abdomens and, occasionally, elongated antenna. Known as deceptive or Batesian mimicry, the flies, which cannot bite or sting, look and behave like stinging insects for protection from predators. Some hoverflies closely mimic a specific species, such as honeybees, yellowjackets or bumblebees, while others resemble bees and wasps in general.
