@@ -1,15 +1,25 @@
 ---
 title: "Canadian Encyclopedia: Green Frog"
-excerpt: "The green frog is a large frog native to Eastern North America. They are one of the most frequently encountered frog species in Canada, owing in part to their tolerance of urban environments and human activity.<br/><br/><img src='/images/green1.jpg' alt='adult green frog' width='400'>"
+excerpt: "The green frog is a large frog native to Eastern North America. They are one of the most frequently encountered frog species in Canada, owing in part to their tolerance of urban environments and human activity.<br/><br/><img src='https://inaturalist-open-data.s3.amazonaws.com/photos/32784098/medium.jpeg' alt='adult green frog' width='400'>"
 collection: portfolio
 ---
 Link: <https://www.thecanadianencyclopedia.ca/en/article/green-frog>
 
 The green frog (*Lithobates clamitans*) is a large frog native to Eastern North America. In Canada, it is found throughout the southeastern part of the country and has additionally been introduced to Newfoundland and British Columbia. So long as a permanent body of water is present, green frogs can sometimes be found in urban environments and are fairly tolerant of human activity. This makes them one of the more frequently encountered frog species in Canada.
 
+<img src="https://inaturalist-open-data.s3.amazonaws.com/photos/32784098/medium.jpeg" alt="adult green frog" width="600">
+
+> Green frogs have prominent dorsolateral folds. The folds start behind the eyes and continue down to the middle of the back.
+> <br/> *(“[Green Frog (Lithobates clamitans)](https://www.inaturalist.org/photos/32784098)” by [Steven Joyner](https://www.inaturalist.org/people/steven307) is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/))*
+
 **Description**
 
 The green frog is a large frog that can grow up to about 10 cm long. Females are generally larger than males. Green frogs are usually either green or brown with brown spots and patches, although people have observed bronze and the rare blue individual. Most green frogs have a green upper lip and dark banding on their hind legs. Their belly is white with darker lines and spots and may occasionally have a yellow tinge. Green frogs can be differentiated from the similar-looking bullfrog by their smaller adult size and prominent dorsolateral folds. The folds start behind the eyes and continue down to the middle of the back. Male green frogs have tympani (ear drums) that are larger than their eye and may have a bright yellow throat Females have tympani that are approximately the same size as their eye.
+
+<img src="https://inaturalist-open-data.s3.amazonaws.com/photos/141737285/medium.jpg" alt="male green frog" width="600">
+
+> Male green frogs have tympani (ear drums) that are larger than their eye and may have a bright yellow throat.
+> <br/> *(“[Green Frog (Lithobates clamitans)](https://www.inaturalist.org/photos/141737285)”) by [Nathan Cole](https://www.inaturalist.org/people/nathancole) is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/))*
 
 The larvae of green frogs, known as tadpoles, are olive green in colour with dark markings and a cream-coloured belly. They have long tails with large fins and usually reach 8–10 cm in length before going through metamorphosis.
 
