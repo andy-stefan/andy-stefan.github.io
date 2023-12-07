@@ -187,7 +187,9 @@ collections:
   talks:
     output: false
     permalink: /:collection/:path/
-
+  shortstories:
+    output: true
+    permalink: /:collection/:path/
 
 # Defaults
 defaults:
