@@ -1,6 +1,6 @@
 ---
 title: "Rabbit's Foot"
-excerpt: "<img src='https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Foggy_forest_%2821177709701%29.jpg/1200px-Foggy_forest_%2821177709701%29.jpg?20160605190710' alt='foggy forest' width='400'><br/>The woods are soft with morning fog. Something lurks beyond view. A rabbit's foot for luck."
+excerpt: "<img src='https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Foggy_forest_%2821177709701%29.jpg/1200px-Foggy_forest_%2821177709701%29.jpg?20160605190710' alt='foggy forest' width='400'><br/>The woods are soft with morning fog. Something lurks beyond view. Clutch a rabbit's foot for luck."
 collection: shortstories
 ---
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Foggy_forest_%2821177709701%29.jpg/1200px-Foggy_forest_%2821177709701%29.jpg?20160605190710" alt="foggy forest" width="600">
