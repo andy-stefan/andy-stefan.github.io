@@ -110,4 +110,4 @@ They stepped away from one another, and with a hiss of wind through branches, th
 
 In her hand, the little bird’s heart stopped beating.
 
-*(image source: [The beauty of transience (49929515227).jpg](https://commons.wikimedia.org/wiki/File:The_beauty_of_transience_(49929515227).jpg) by [Ralf Steinberger](https://www.flickr.com/people/145472109@N04) and licensed under [CC BY 2.0 DEED](https://creativecommons.org/licenses/by/2.0/deed.en))*
+###### *(image source: [The beauty of transience (49929515227).jpg](https://commons.wikimedia.org/wiki/File:The_beauty_of_transience_(49929515227).jpg) by [Ralf Steinberger](https://www.flickr.com/people/145472109@N04) and licensed under [CC BY 2.0 DEED](https://creativecommons.org/licenses/by/2.0/deed.en))*
