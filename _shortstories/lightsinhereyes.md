@@ -4,6 +4,7 @@ excerpt: "<img src='https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Ic
 collection: shortstories
 ---
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Ice_Skates_%286625045137%29.jpg/1200px-Ice_Skates_%286625045137%29.jpg?20130504021812" width="600" alt="legs of figure skater on ice">
+
 The ice is cold and hard on her back as she blinks up at the fluorescent lights hanging from the rink’s high ceiling. They hang in circular fixtures, interspaced between the crisscrossing rafters like the sequins on her dress. Had they always been so high up? They bring a heavy beat of pain behind her eyes, but she doesn’t look away. They are too pretty.
 
 People are crowded around the girl; coaches and skaters crane their necks to see past one another, maintaining a bubble of space around her that is broken only by the coach who kneels at her side, repeating her name in a soft voice. 
@@ -26,7 +27,7 @@ The nurse tells the girl to keep her eyes open. They become dry and achy in the 
 
 Her skates must have been taken off at some point because they are sitting in the woman’s lap. The girl reminds her to dry the blades so that they do not rust, but the woman does not move to wipe the steel clean. The girl frowns at the melted snow and condensation that sticks to the metal surface. She thinks about clean edges and smooth lines. She repeats that the woman should keep them dry. The woman does nothing except play with the too-long laces.
 
-The girl frowns and looks up at the ceiling, where the lights are small and wide-spread and bright. They’re not fluorescent anymore. She isn’t sure what kind of lights they are, but she likes the way they wink at her softly. They are gentle, and they are pretty. 
+The girl looks up at the ceiling, where the lights are small and wide-spread and bright. They’re not fluorescent anymore. She isn’t sure what kind of lights they are, but she likes the way they wink at her softly. They are gentle, and they are pretty. 
 
 She does not look away.
 
