@@ -12,7 +12,7 @@ excerpt: "<img src='https://upload.wikimedia.org/wikipedia/commons/d/d3/The_beau
 collection: shortstories
 ---
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/d/d3/The_beauty_of_transience_%2849929515227%29.jpg" width=600 alt="dandelion seed head">
+<img src="https://upload.wikimedia.org/wikipedia/commons/d/d3/The_beauty_of_transience_%2849929515227%29.jpg" width="600" alt="dandelion seed head">
 
 The field had been torn up into clumps of earth and detritus. The roots of unearthed plants were stark white in the sunlight, as if shocked to be exposed. 
 
